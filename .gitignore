@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+dist/
+build/
+.cache/
+
+# Audio / Video build outputs
+*.mp4
+*.mkv
+*.wav
+*.aac
+!reference/code-snippets/*.sh
+!assets/*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
