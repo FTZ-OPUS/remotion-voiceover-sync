@@ -83,6 +83,8 @@ remotion-voiceover-sync/
 │   └── pitfalls-and-fixes.md         # 12 大致命踩坑与避坑解药全解析
 └── reference/
     ├── case-study.md                 # 真实项目复盘案例（英语定语从句动画微课）
+    ├── cases/
+    │   └── math-group-intro/         # 案例2：QQ群宣传视频纯配音对齐（含成品与中间产物）
     └── code-snippets/
         ├── DigitalHuman.tsx          # SVG 数字人组件（低频音量驱动口型同步）
         ├── build_voiceover.sh        # FFmpeg adelay + amix 精准音轨构建脚本
